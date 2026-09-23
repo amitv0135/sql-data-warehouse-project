@@ -2,8 +2,7 @@
 Building a modern data warehouse with SQL Server including ETL processes, data modeling and  analytics
 
 ## Required tools
-**Notion
-**draw.io
-**QL Server
+-**Notion
+-**draw.io
+-**QL Server
 
-##
